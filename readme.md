@@ -1,7 +1,7 @@
 # Organic Sphere
 
-- [GitHub](https://github.com/brunosimon/organic-sphere)
-- [Live](https://organic-sphere.vercel.app)
+- [GitHub](https://github.com/jameshussey474/organic-sphere)
+
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
@@ -17,3 +17,6 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+## Demo
+
+![alt](/demo.png)
